@@ -1,7 +1,7 @@
 /**
  *
  * @authorAditiUpadhyay
- * Functions:Static Program Understandings
+ * Functions:Palindrome Program Understandings
  *
  */
 
